@@ -11,11 +11,29 @@ mvn spring-boot:run
 ```
 
 2. **Open browser:**
+
+**Option 1: Local Access (if running on your computer)**
 ```
 http://localhost:8080
 ```
 
+**Option 2: GitHub Codespaces URL (public access)**
+```
+https://studious-space-couscous-696wvwrvrwrpfrp7r-8080.app.github.dev/
+```
+
 That's it! 🚀
+
+---
+
+**ℹ️ About the URLs:**
+- `http://localhost:8080` → Use only if app is running locally on your computer
+- `https://studious-space-couscous-696wvwrvrwrpfrp7r-8080.app.github.dev/` → GitHub Codespaces public URL (access from anywhere)
+- `http://localhost:8080/h2-console` → H2 Database Console (for debugging - local only)
+
+The Codespaces URL is unique to your workspace and changes each time you create a new codespace.
+
+---
 
 ## What You Get
 
